@@ -1,6 +1,4 @@
-*{
-    font-family: 
-}
+
 body{
     background-color: #f8f8f8;
     margin:-40px;
@@ -16,10 +14,10 @@ body{
     padding-top: 5px;
     height:100px;    
 }
-img{
+#pic{
     height: 400px;
     width: 400px;
-    background-color: powderblue;
+    
 }
 #shoe{
     /*text-align:center;*/
@@ -31,4 +29,12 @@ img{
 }
 #a{
     padding-left:20;
+}
+.row{
+    text-align:center;
+    
+}
+
+#a{
+    text-align: center;
 }
